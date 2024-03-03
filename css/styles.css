@@ -62,7 +62,7 @@ ul,ol {
 .section-button{
         font-weight: 500;
         letter-spacing: 0.04em;
-        background-color: #404BBF;
+        background-color:#4D5AE5;
         color: #ffffff;
         line-height: 1.5;
         cursor: pointer;
@@ -103,6 +103,7 @@ ul,ol {
 }
 .section-photo-team{
        background: #f4f4fd;
+       line-height: 1.11
 }
 .information-mark{
         font-weight: 500;
@@ -261,26 +262,27 @@ ul,ol {
         letter-spacing: 0.02em;
         color: #434455;
 }
-footer{
-        background-color:#2E2F42;
-        font-family: 'Roboto', sans-serif;
+.footer {
+        background-color: #2e2f42;
 }
-.logo-color-footer{
+
+.logo {
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        background-color: #2E2F42;
-        font-family: "Raleway", sans-serif;
+        color: #4d5ae5;
+}
+
+.logo-color {
         color: #f4f4fd;
 }
-.logo-footer {
-        text-transform: uppercase;
-}
-.footer-title{
-        font-size: 16px;
+
+.footer-paragraph {
         line-height: 1.5;
+        color: #f4f4fd;;
         letter-spacing: 0.02em;
-        color: #f4f4fd;
+        font-size: 16px;
 }
