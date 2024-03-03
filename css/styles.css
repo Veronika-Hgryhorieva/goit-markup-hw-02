@@ -22,6 +22,9 @@ ul,ol {
    color: #2e2f42;
     
 }
+.section-button{
+        background-color: #404BBF;
+}
 .nav-link {
         color: #2e2f42;
         font-weight: 500;
