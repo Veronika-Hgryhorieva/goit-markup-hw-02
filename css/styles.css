@@ -62,7 +62,7 @@ ul,ol {
 .section-button{
         font-weight: 500;
         letter-spacing: 0.04em;
-        background-color:#404BBF;
+        background-color: #4D5AE5;
         color: #ffffff;
         line-height: 1.5;
         cursor: pointer;
@@ -106,13 +106,10 @@ ul,ol {
 
 .custom-list {
         list-style: none;
-        padding: 0;
 }
 
 .custom-item {
-        background-color: #ffffff;
-        padding: 20px;
-        margin-bottom: 20px;
+        background-color: #ffffff; 
 }
 
 .custom-subheading {
@@ -145,6 +142,7 @@ ul,ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .custom-subhead {
         font-weight: 500;
