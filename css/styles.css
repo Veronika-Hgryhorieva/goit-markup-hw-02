@@ -22,7 +22,8 @@ ul,ol {
    color: #2e2f42;
     
 }
-.section-button{
+.section-button:focus,
+.section-button:hover{
         background-color: #404BBF;
 }
 .nav-link {
