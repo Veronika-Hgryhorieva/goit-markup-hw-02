@@ -47,8 +47,7 @@ ul,ol {
     color: #404BBF;
 }
 .main{
-        width: 1440px;
-        height: 600px;
+       
          background: #2e2f42;
 }
 .main-section{
@@ -71,8 +70,6 @@ ul,ol {
         color: #4D5AE5;
 }
 .section-photo-team{
-       width: 1440px;
-        height: 732px;
         background: #d9d9d9;
 }
 .section-title-first{
@@ -100,8 +97,6 @@ ul,ol {
     background-color: #fff;
 }
 .section-photo-team{
-       width: 1440px;
-       height: 732px;
        background: #f4f4fd;
 }
 .information-mark{
@@ -159,11 +154,22 @@ ul,ol {
 }
 .photo-information-daniel{
         background-color: #fff;
-        padding: 0px 0px 32px 0px;
-        width: 264px;
-        height: 380px;
 }
-
+.information-daniel{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.profession-daniel{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+         color: #434455;
+}
 .section-portfolio{
     font-weight: 700;
     font-size: 36px;
@@ -171,6 +177,19 @@ ul,ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    width: 1128px;
-    height: 999px;
 }
+
+footer{
+        color:#2E2F42;
+        font-family: 'Roboto', sans-serif;
+}
+.logo-color-footer{
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        font-family: Raleway, sans-serif;
+}
+
